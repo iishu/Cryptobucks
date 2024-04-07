@@ -2,10 +2,15 @@
 
  This repository contains code for Crypto Screener Application in ReactJS.  
  
-<h3 align="left">▶ Support me via:</h3><br />
-<p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
-
+ 
 ### Images of The Crypto Screener Website:
+![image](https://github.com/iishu/Cryptobucks/assets/93548011/9a9e0474-a71d-424e-aa7c-40815db6fb6b)
+![image](https://github.com/iishu/Cryptobucks/assets/93548011/3ca711ca-7218-4841-bd63-868a39ffd5d9)
+![image](https://github.com/iishu/Cryptobucks/assets/93548011/fb36c25d-ef4a-48e6-8e8a-346c3e816ac8)
+![image](https://github.com/iishu/Cryptobucks/assets/93548011/f2441b23-1b2f-4fcd-a8ab-2234a111f3d5)
+
+
+
 
  
 
